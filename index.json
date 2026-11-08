@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "traefik-k8s-operator",
+  "versions": [
+    {
+      "commit": "51e1593c8ee62a8f15d2a18b4e57d0a1ae638553",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:31:25.069328+00:00"
+    }
+  ]
+}
